@@ -1,4 +1,4 @@
 # cocktail-waiter-robot
-This a project building robotic cocktail waiters.
+This is a project building robotic cocktail waiters.
 
-Detail specs are provided on the project proposal.
+Detail specs are provided in the project proposal.
